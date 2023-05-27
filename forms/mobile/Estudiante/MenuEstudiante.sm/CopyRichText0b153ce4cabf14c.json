@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "43dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "237dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s210cc09ce2748ee81f571ed89f579ea",
+    "_text_": "PUNTAJE",
+    "_top_": {
+        "type": "string",
+        "value": "14dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "38.94%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "id": "CopyRichText0b153ce4cabf14c",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bf9d0b5e2eeb427ea9087a16b11d377a",
+    "linkskin": "se886f19d84445c5af756e21bde22b2c",
+    "name": "kony.ui.RichText",
+    "parent": "FlexContainer0g105bc88c50041",
+    "pf": "MenuEstudiante",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

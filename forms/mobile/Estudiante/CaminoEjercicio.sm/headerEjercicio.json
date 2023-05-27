@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "67dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se2b9f68079546c09f55905d53f608a7",
+    "_top_": {
+        "type": "string",
+        "value": "67dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "vidasEjercicios",
+        "tituloNivel",
+        "HeartDark"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "headerEjercicio",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fce608b614104a99af763ed28380cf5f",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CaminoEjercicio",
+    "pf": "CaminoEjercicio",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

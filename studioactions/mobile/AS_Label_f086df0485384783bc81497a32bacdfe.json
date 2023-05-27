@@ -1,0 +1,35 @@
+{
+    "AS_Label_f086df0485384783bc81497a32bacdfe": {
+        "id": "AS_Label_f086df0485384783bc81497a32bacdfe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "TutorialesMenu",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e456656f7663410897651b855a03785e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__f576ab416e7e46f2a544358ef04fb353",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "PerfilEstudiante",
+            "formKUID": "f456ea1ab3324df9b32f604683b3e6bb",
+            "projectName": "PITAGORAS",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "Estudiante",
+            "isCustomInput": false
+        }]
+    }
+}

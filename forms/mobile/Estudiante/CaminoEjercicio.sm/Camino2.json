@@ -1,0 +1,77 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "550dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s3e942393ba248b4823655bbba9f0e97",
+    "_top_": {
+        "type": "string",
+        "value": "540dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "82.01%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyLabel0ib120919507446",
+        "CopyLabel0c4fd2aad83d84f",
+        "CopyLabel0e3d08d7965b24c",
+        "CopyLabel0e5d2614669e941",
+        "CopyLabel0bab4707af8864c",
+        "CopyLabel0ccd94b6c35e746",
+        "CopyLabel0b55081f5e21247",
+        "CopyLabel0b7bac53650eb48",
+        "CopyLabel0ca5c19beb11544",
+        "CopyLabel0h353b418dfd645",
+        "CopyLabel0a335be50723346",
+        "CopyLabel0baf53bd92cda40",
+        "CopyLabel0d6536ed349bf40",
+        "CopyLabel0f95fd98bcb4d42",
+        "CopyLabel0bc506edd842849",
+        "CopyLabel0b8731061a50b47",
+        "CopyLabel0fe829b91101e4d",
+        "CopyLabel0g2c6926a18ef4d"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "Camino2",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d463e6a8c766486a84053fd5b91d5c8d",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexScrollContainer0da2e38db1cec41",
+    "pf": "CaminoEjercicio",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

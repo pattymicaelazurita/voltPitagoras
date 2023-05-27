@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "s4fdd45d7372452d8f18eace6c7e866f",
+    "_text_": "Ver Progreso",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0fb9562105140c3b64f09729b2cea7c",
+    "id": "ButtonBorder",
+    "ide_onClick": "AS_Button_bc8d1f152c44481a91d1d5270257d678",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cbf64c8241214c97b4209f8c8eb94577",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "BorderButtonRound",
+    "pf": "MenuEstudiante",
+    "wType": "Button",
+    "zindex": 1
+}

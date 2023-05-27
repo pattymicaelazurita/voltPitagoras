@@ -1,0 +1,35 @@
+{
+    "AS_Label_c1dec6c9e8d242a7b55cce79130be609": {
+        "id": "AS_Label_c1dec6c9e8d242a7b55cce79130be609",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "CrearEjercicio",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bff0541fff444851b27071075ad4b430"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__g1a952dfb5564ebdacb97c23b8b1b649",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "PerfilProfesor",
+            "formKUID": "b6da16a560ce4b9e9dfdfd1286f231e7",
+            "projectName": "PITAGORAS",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "Profesor",
+            "isCustomInput": false
+        }]
+    }
+}

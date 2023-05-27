@@ -1,0 +1,23 @@
+{
+    "AS_Button_i265f71f7dc74f7383621d38bffce6c5": {
+        "id": "AS_Button_i265f71f7dc74f7383621d38bffce6c5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_hb8227e9d9414339945b9570cbe69cf1",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "MenuEstudiante",
+            "formKUID": "b31e2b81874d46c29c8787854e38911a",
+            "projectName": "PITAGORAS",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "Estudiante",
+            "isCustomInput": false
+        }]
+    }
+}

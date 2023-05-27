@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s210cc09ce2748ee81f571ed89f579ea",
+    "_text_": "Descripción",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 2,
+    "id": "RichText0hc67442d63b44c",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ida28a7f835e477fa1d3d95c1a096602",
+    "linkskin": "se886f19d84445c5af756e21bde22b2c",
+    "name": "kony.ui.RichText",
+    "parent": "FlexScrollContainer0da3c1fcfb1154e",
+    "pf": "Tutorial",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

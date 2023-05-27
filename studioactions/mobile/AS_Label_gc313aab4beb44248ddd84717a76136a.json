@@ -1,0 +1,29 @@
+{
+    "AS_Label_gc313aab4beb44248ddd84717a76136a": {
+        "id": "AS_Label_gc313aab4beb44248ddd84717a76136a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onTouchStart_a679c24f808b4c0c81109c6cbc478e98",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "PerfilEstudiante",
+            "formKUID": "f456ea1ab3324df9b32f604683b3e6bb",
+            "projectName": "PITAGORAS",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "Estudiante",
+            "isCustomInput": false
+        }]
+    }
+}

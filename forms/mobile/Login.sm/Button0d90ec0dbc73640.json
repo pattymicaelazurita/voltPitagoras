@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "67dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se8ad8f972274826bba5f9c99d288d2d",
+    "_text_": "Crear cuenta",
+    "_top_": {
+        "type": "string",
+        "value": "764dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa531eb95d204e1bad76c4c99c29bef3",
+    "id": "Button0d90ec0dbc73640",
+    "ide_onClick": "AS_Button_ddcc1d0ebba3405dbb319e460feb5e10",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bb2f1906f34b46b092fea40e05659c49",
+    "name": "kony.ui.Button",
+    "parent": "Login",
+    "pf": "Login",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

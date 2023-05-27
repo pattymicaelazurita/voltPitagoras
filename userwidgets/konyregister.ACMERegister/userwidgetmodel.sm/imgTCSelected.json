@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5.44%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sc9a4de6052e4e3d93bb7c5cd19c3ed2",
+    "_src_": "checkbox_active_1_1.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50.19%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "uwu017ea39de9d497aba540c293fafe46e",
+        "platform": "iphone",
+        "templateType": "userwidgets",
+        "topLevelBox": null
+    },
+    "id": "imgTCSelected",
+    "imagescalemode": 1,
+    "imagewhenfailed": "checkbox_unselected.png",
+    "info": null,
+    "invokedProperty": "src",
+    "iphone": {
+        "render": true
+    },
+    "ispercent": true,
+    "isvisible": false,
+    "kuid": "u37cdf5509184c6a8cccb485ed33b156",
+    "name": "kony.ui.Image2",
+    "parent": "flxAgreeToTermsAndConditions",
+    "pf": "userwidgetmodel",
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 1
+}

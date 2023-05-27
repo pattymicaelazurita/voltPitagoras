@@ -1,0 +1,80 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "667dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s3e942393ba248b4823655bbba9f0e97",
+    "_top_": {
+        "type": "string",
+        "value": "1660dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "82.01%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyLabel0b845fc753a6f44",
+        "CopyLabel0c30851dc62704b",
+        "CopyLabel0ea9b495853db47",
+        "CopyLabel0c4f4faa383104d",
+        "CopyLabel0ff9e9599a8124a",
+        "CopyLabel0d342404e45a64d",
+        "CopyLabel0d82937fd9fdc47",
+        "CopyLabel0ce0fcbc549284b",
+        "CopyLabel0b7a43d3632554d",
+        "CopyLabel0ee5140e060e443",
+        "CopyLabel0fded81657e554e",
+        "CopyLabel0d498850a7da142",
+        "CopyLabel0e5ae56a386604a",
+        "CopyLabel0jf527425064144",
+        "CopyLabel0e6f8ac403c044a",
+        "CopyLabel0aafff02e4f544d",
+        "CopyLabel0c8c91e72adcf48",
+        "CopyLabel0g43b703b79764b",
+        "CopyLabel0c4e7b210644048",
+        "CopyLabel0j9b5300b97dc4a",
+        "CopyLabel0ecd9b72bf7db49"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "Camino4",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "da3879c6e9364044b084f6b993850ba4",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexScrollContainer0da2e38db1cec41",
+    "pf": "CaminoEjercicio",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

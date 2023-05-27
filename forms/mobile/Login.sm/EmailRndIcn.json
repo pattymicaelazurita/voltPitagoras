@@ -1,0 +1,103 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "67dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s9915ece26b6437c9ca053fd0d7f32fd",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "EmailRndIcn": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "f7c91902a810474cbd13c5fa735487cd",
+                "srcKUID": "u1bbb51a058447939d7495952aaac162",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "20dp"
+                }
+            }
+        },
+        "frmEmail": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j17335d9c5bb416183ba586390f16856",
+                "srcKUID": "uc8d775fc14f4189a6646dbaa43683e4",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblEmail": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j278521ea36b42d492b61c2b16d2eb28",
+                "srcKUID": "u64cfa20901b4fdc98244dd32da63f1c",
+                "wType": "Label"
+            }
+        },
+        "txtEmail": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b353d44cccf84ce4aa53a33825d5c91e",
+                "srcKUID": "uf4cb74a74d0413bb71c3fc7d0093bb0",
+                "wType": "TextField"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "EmailRndIcn",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "f7c91902a810474cbd13c5fa735487cd",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexContainer0a6a306def45d49",
+    "pf": "Login",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "u1bbb51a058447939d7495952aaac162",
+    "wType": "UserWidgetInstance"
+}

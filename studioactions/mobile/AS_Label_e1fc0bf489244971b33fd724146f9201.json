@@ -1,0 +1,29 @@
+{
+    "AS_Label_e1fc0bf489244971b33fd724146f9201": {
+        "id": "AS_Label_e1fc0bf489244971b33fd724146f9201",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onTouchStart_c6a6de2842a44cb985d4424c4b77537c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "PerfilProfesor",
+            "formKUID": "b6da16a560ce4b9e9dfdfd1286f231e7",
+            "projectName": "PITAGORAS",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "Profesor",
+            "isCustomInput": false
+        }]
+    }
+}

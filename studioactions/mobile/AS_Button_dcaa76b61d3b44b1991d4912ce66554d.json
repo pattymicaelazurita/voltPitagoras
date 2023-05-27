@@ -1,0 +1,69 @@
+{
+    "AS_Button_dcaa76b61d3b44b1991d4912ce66554d": {
+        "id": "AS_Button_dcaa76b61d3b44b1991d4912ce66554d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CrearCuenta",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f700cb87b6234132afb62f46ea9399ba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__aa34a9674f2944d489b80fac4c560125",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "InicioNivelacion",
+            "formKUID": "b1459e8da99c4548b892c902472346ea",
+            "projectName": "PITAGORAS",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "_f8e4f2533bdf4fbebb973921e45b6830",
+            "enableMappingEditor": true,
+            "package": "Estudiante",
+            "isCustomInput": false
+        }, {
+            "id": "_f8e4f2533bdf4fbebb973921e45b6830",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "this.view.ListBox0a1ba96fb4a554e.selectedKeyValue",
+                "operator": "===",
+                "rightValueType": "value",
+                "rightValue": "Estudiante",
+                "leftItemKUID": "f700cb87b6234132afb62f46ea9399ba",
+                "leftWidgetKUID": "fbf08b1d8a714802b2b78eef48a8eb89"
+            }],
+            "criteria": "all"
+        }, {
+            "id": "ELSE_IF_CONDITION_d62aa6167b8b43bc8bf87b34a1cd02d0",
+            "type": "ELSE_IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "this.view.ListBox0a1ba96fb4a554e.selectedKeyValue",
+                "operator": "===",
+                "rightValueType": "value",
+                "rightValue": "Profesor",
+                "leftItemKUID": "f700cb87b6234132afb62f46ea9399ba",
+                "leftWidgetKUID": "fbf08b1d8a714802b2b78eef48a8eb89"
+            }],
+            "criteria": "all"
+        }, {
+            "id": "ELSE_IF_CONDITION_d8ac0cea947f4cde9f98e18f8e243cbf",
+            "type": "ELSE_IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "this.view.ListBox0a1ba96fb4a554e.selectedKeyValue",
+                "operator": "===",
+                "rightValueType": "value",
+                "rightValue": "Tutor",
+                "leftItemKUID": "f700cb87b6234132afb62f46ea9399ba",
+                "leftWidgetKUID": "fbf08b1d8a714802b2b78eef48a8eb89"
+            }],
+            "criteria": "all"
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_TextField_be90d3fbd268484481000f4a6b540b32": {
+        "id": "AS_TextField_be90d3fbd268484481000f4a6b540b32",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY____b865ed7587354ae683d578154e41690a",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "propertyName": "skin",
+            "propertyValue": "CopyskEmailIRF1",
+            "itemKUID": "udf7e16cc8ea490788888e3737af84dc",
+            "widgetKUID": "u017fd0ad72c4de5a02eacf3f491d8e4",
+            "skinKUID": "s2c5d88cd9a84e9585f8b8b5413cbc78",
+            "isSkinProperty": true,
+            "wType": "FlexContainer",
+            "currentTheme": "defaultTheme",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

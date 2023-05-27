@@ -1,0 +1,35 @@
+{
+    "AS_Label_g01858a2cdc940dc90ce7fd71a3dc0a8": {
+        "id": "AS_Label_g01858a2cdc940dc90ce7fd71a3dc0a8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Progreso",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j25fd55fc5c44f67be7d229cdeb9df89"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__adb0bb3e9def40ffb77ffb7bf6083b86",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "PerfilEstudiante",
+            "formKUID": "f456ea1ab3324df9b32f604683b3e6bb",
+            "projectName": "PITAGORAS",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "Estudiante",
+            "isCustomInput": false
+        }]
+    }
+}

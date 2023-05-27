@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "64dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s99ff85ed59f4684882daf3643b78663",
+    "_text_": "Iniciar Sesión",
+    "_top_": {
+        "type": "string",
+        "value": "768dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa531eb95d204e1bad76c4c99c29bef3",
+    "id": "Button0a0db2e8951df48",
+    "ide_onClick": "AS_Button_i6db64377cc84007908895a26074a054",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "faf95724f17244cbaa889ef220dc5570",
+    "name": "kony.ui.Button",
+    "parent": "CrearCuenta",
+    "pf": "CrearCuenta",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

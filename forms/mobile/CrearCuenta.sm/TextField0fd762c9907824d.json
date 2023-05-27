@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Cédula",
+    "_skin_": "s93982ad7e0b452eaec9e0c4311fb0c7",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "170dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "398dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sd7a1e2a0c624a2286792dddca26918d",
+    "id": "TextField0fd762c9907824d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "h457df0e4af04fbfb5052a6d6f948f9d",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexScrollContainer0b86b8454551e4f",
+    "pf": "CrearCuenta",
+    "placeholderskin": "s9ab51cfb9a540d48f21f48564e5deba",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

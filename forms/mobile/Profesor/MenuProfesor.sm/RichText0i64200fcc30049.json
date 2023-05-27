@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "43dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "273dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s210cc09ce2748ee81f571ed89f579ea",
+    "_text_": "Estado",
+    "_top_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30.37%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "id": "RichText0i64200fcc30049",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d2684a8252754158b7aaf199406616e1",
+    "linkskin": "se886f19d84445c5af756e21bde22b2c",
+    "name": "kony.ui.RichText",
+    "parent": "FlexContainer0a4ff0377e8c241",
+    "pf": "MenuProfesor",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

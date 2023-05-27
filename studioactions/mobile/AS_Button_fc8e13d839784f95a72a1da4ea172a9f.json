@@ -1,0 +1,29 @@
+{
+    "AS_Button_fc8e13d839784f95a72a1da4ea172a9f": {
+        "id": "AS_Button_fc8e13d839784f95a72a1da4ea172a9f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "InicioNivelacion",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b1459e8da99c4548b892c902472346ea"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__f05ab1e22b72445a80ee6841c6a4e925",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "EjercicioOpMultiple",
+            "formKUID": "hd8a3a57b5d44cc297ac82ed5cdf72c3",
+            "projectName": "PITAGORAS",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "Estudiante",
+            "isCustomInput": false
+        }]
+    }
+}

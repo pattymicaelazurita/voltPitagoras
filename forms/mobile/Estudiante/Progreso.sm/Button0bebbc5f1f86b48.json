@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "146dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s62db299aa134bff85d04d12b833d74e",
+    "_text_": "Menú",
+    "_top_": {
+        "type": "string",
+        "value": "710dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "136dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa531eb95d204e1bad76c4c99c29bef3",
+    "id": "Button0bebbc5f1f86b48",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bc777fedcdf84335ab1ee1533257bc7a",
+    "name": "kony.ui.Button",
+    "parent": "Progreso",
+    "pf": "Progreso",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

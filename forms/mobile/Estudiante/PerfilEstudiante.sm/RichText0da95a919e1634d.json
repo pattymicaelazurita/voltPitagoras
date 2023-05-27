@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "39dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "110dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s516bfd023694697b141ffdb4585d7b3",
+    "_text_": "PITÁGORAS",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "47.51%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "RichText0da95a919e1634d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "da19938795dc4bb9be0daa5ff626440c",
+    "linkskin": "se886f19d84445c5af756e21bde22b2c",
+    "name": "kony.ui.RichText",
+    "parent": "headerPitagorasMorado",
+    "pf": "PerfilEstudiante",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

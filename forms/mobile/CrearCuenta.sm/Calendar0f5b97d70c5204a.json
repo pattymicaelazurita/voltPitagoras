@@ -1,0 +1,109 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "__id": "CrearCuenta_Calendar0f5b97d70c5204a",
+    "__input": "Calendar0f5b97d70c5204a",
+    "_data_": null,
+    "_date_": "21/5/2023",
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "63dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s80ddca5eb4b49a6852438a9ea82d524",
+    "_top_": {
+        "type": "string",
+        "value": "373dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "advview": "default",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        21,
+        5,
+        2023,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": 21,
+    "daytextalignmentincell": 5,
+    "displayedMonths": [
+        5,
+        2023
+    ],
+    "entereddate": [
+        21,
+        5,
+        2023,
+        0,
+        0,
+        0
+    ],
+    "format": "dd/MM/yyyy",
+    "formatteddate": "21/05/2023",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "Calendar0f5b97d70c5204a",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "hcf5b6351e394bf2b1ef9831c86e2edd",
+    "minutes": 0,
+    "month": 5,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "pagedate": "/2023",
+    "parent": "FlexScrollContainer0b86b8454551e4f",
+    "pf": "CrearCuenta",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 0,
+    "selectdate": "//2023",
+    "startDay": 0,
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": 2023,
+    "zindex": 1
+}

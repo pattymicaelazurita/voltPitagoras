@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "397dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "33dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0a9a60959024c4f89b9c589f8696573",
+    "_text_": "Te damos la bienvenida a tu crecimiento en el saber matemático, te invitamos a empezar con el reto que nos permitirá definir tu nivel actual",
+    "_top_": {
+        "type": "string",
+        "value": "183dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "83.33%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "RichText0e0f1f2d2374040",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ea94fdb086414e3b8d198e96b1c1d637",
+    "linkskin": "se886f19d84445c5af756e21bde22b2c",
+    "name": "kony.ui.RichText",
+    "parent": "InicioNivelacion",
+    "pf": "InicioNivelacion",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

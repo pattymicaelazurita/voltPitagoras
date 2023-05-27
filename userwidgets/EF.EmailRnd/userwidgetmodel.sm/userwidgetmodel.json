@@ -1,0 +1,72 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s0822eedf17a49f086fd08ef86ac37f4",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "breakpointInfo": {
+        "b1": {
+            "width": 1366
+        },
+        "b2": {
+            "width": 1024
+        },
+        "b3": {
+            "width": 640
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "EmailRnd"
+    ],
+    "containerweight": 100,
+    "currentLocale": "default",
+    "device": "iPhone13ProMax",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "globalUserWidgetRefs": [
+        "u83d8802b6af4482b898b7429c81034b",
+        "ucd1246f10f143f6b895e0ad0462e865",
+        "u23dc3ea7c2c4d19bd4061ce030e2100"
+    ],
+    "id": "userwidgetmodel",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "isvisible": true,
+    "kuid": "uaa92bab90f44f7485c4faead05594e2",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhone13ProMax",
+    "prevPlatform": "iphone",
+    "retainscrollposition": false,
+    "titleBarSkin": "s38f4d2f1dc749929b44c2e1fdc0df4a",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

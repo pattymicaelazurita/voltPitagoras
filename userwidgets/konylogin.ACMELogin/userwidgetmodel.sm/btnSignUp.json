@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "6.18%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4d1ff376d354988a9154b9864481fc5",
+    "_text_": "CREATE ACCOUNT",
+    "_top_": {
+        "type": "string",
+        "value": "83%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "81.03%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.03%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s41a90f0e7b84bb6b1c58e7d3a7645a6",
+    "id": "btnSignUp",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "u821792fe32e45c0a9cd4e1b38582c1b",
+    "name": "kony.ui.Button",
+    "parent": "ACMELogin",
+    "pf": "userwidgetmodel",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 22
+}

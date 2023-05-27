@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_jfe5fe2dc86b4fa48668d9ae32f0706a": {
+        "id": "AS_FlexContainer_jfe5fe2dc86b4fa48668d9ae32f0706a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "MenuEstudiante",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b31e2b81874d46c29c8787854e38911a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__gc503db60fe9425f8a3a66c08952ac0a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "CaminoEjercicio",
+            "formKUID": "g460d8d0643646e0b8147757f096e436",
+            "projectName": "PITAGORAS",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "Estudiante",
+            "isCustomInput": false
+        }]
+    }
+}

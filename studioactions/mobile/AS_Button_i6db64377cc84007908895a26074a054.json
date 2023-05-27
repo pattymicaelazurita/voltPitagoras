@@ -1,0 +1,29 @@
+{
+    "AS_Button_i6db64377cc84007908895a26074a054": {
+        "id": "AS_Button_i6db64377cc84007908895a26074a054",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CrearCuenta",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f700cb87b6234132afb62f46ea9399ba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__jc86f039e69a4b42a906e5a93bdd220b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Login",
+            "formKUID": "d6be67f36f2b4acf940c8f5600f254bc",
+            "projectName": "PITAGORAS",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

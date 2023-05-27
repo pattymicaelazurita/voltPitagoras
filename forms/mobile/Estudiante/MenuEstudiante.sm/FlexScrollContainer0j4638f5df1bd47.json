@@ -1,0 +1,71 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "633dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s36302b1caa24583b95f77c8c8df533c",
+    "_top_": {
+        "type": "string",
+        "value": "190dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer0ee66359ce49b42",
+        "CopyFlexContainer0a53abb924d604a",
+        "CopyFlexContainer0e1ea7a08d3234c"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "FlexScrollContainer0j4638f5df1bd47",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c1cfabd1a1f646f3856192391b4857d4",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "MenuEstudiante",
+    "pf": "MenuEstudiante",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Button_ed6fbbc02a534bfd8fc54918a2d95fbb": {
+        "id": "AS_Button_ed6fbbc02a534bfd8fc54918a2d95fbb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Login",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d6be67f36f2b4acf940c8f5600f254bc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ef13e41d820b43e499931f0ed7483a7d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "MenuEstudiante",
+            "formKUID": "b31e2b81874d46c29c8787854e38911a",
+            "projectName": "PITAGORAS",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "Estudiante",
+            "isCustomInput": false
+        }]
+    }
+}

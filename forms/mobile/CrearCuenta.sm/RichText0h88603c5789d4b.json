@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0af155bffdc4386a720e24aee558e3b",
+    "_text_": "Fecha de nacimiento",
+    "_top_": {
+        "type": "string",
+        "value": "313dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "62.31%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "RichText0h88603c5789d4b",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j45a3a33a0d54c6fbd133bb8a3b62f55",
+    "linkskin": "se886f19d84445c5af756e21bde22b2c",
+    "name": "kony.ui.RichText",
+    "parent": "FlexScrollContainer0b86b8454551e4f",
+    "pf": "CrearCuenta",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

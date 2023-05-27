@@ -1,0 +1,18 @@
+{
+    "AS_Button_e66ac4f5a3524792b02b17e570230233": {
+        "id": "AS_Button_e66ac4f5a3524792b02b17e570230233",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Inicio",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b95e78ed835146ada414eb98a75d167c"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

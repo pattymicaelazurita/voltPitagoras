@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "number",
+        "value": "5"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Email",
+    "_right_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_skin_": "sde4d7831dc34d1a86d404de74f07953",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "android": {
+        "onEndEditing": "AS_TextField_j0b654349db84c948fac83241ea3cde6"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "scc2e56c0aac473ca7dd2a58b43a90aa",
+    "id": "txtEmailR",
+    "info": null,
+    "iphone": {
+        "onEndEditing": "AS_TextField_b45d7592df5c4245802784fcdce7e174",
+        "psp": {
+            "showClearButton": false
+        }
+    },
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "u7806a13677841338927fa1f3998a656",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "EmailRnd",
+    "pf": "userwidgetmodel",
+    "placeholderskin": "s480f203e3a8479290e5cd2385e8376f",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

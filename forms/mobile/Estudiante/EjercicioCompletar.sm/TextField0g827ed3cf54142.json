@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Respuesta",
+    "_skin_": "s72d7fa607894ce59cece98383fd2d58",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "330dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "230dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sd7a1e2a0c624a2286792dddca26918d",
+    "id": "TextField0g827ed3cf54142",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "ad6c36ba17df4f59a329d5220b7b6f7e",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexScrollContainer0i1173a303c3044",
+    "pf": "EjercicioCompletar",
+    "placeholderskin": "s9ab51cfb9a540d48f21f48564e5deba",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

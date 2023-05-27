@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "149dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf750683246f4b1aa11a1c94ed2e941b",
+    "_text_": "Crear",
+    "_top_": {
+        "type": "string",
+        "value": "683dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "130dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa531eb95d204e1bad76c4c99c29bef3",
+    "id": "Button0id19b3db3ed949",
+    "ide_onClick": "AS_Button_dcaa76b61d3b44b1991d4912ce66554d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ce7441adaa9642d8ad7375ea30c30537",
+    "name": "kony.ui.Button",
+    "parent": "CrearCuenta",
+    "pf": "CrearCuenta",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

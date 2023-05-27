@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "17dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enlace a certificados",
+    "_skin_": "s175cdf935904814944ee778d4051251",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "270dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "384dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sd7a1e2a0c624a2286792dddca26918d",
+    "id": "TextField0dd07a53c98044f",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "d53a421a76234f99b68095056adfece6",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "CompletarPerfil",
+    "pf": "CompletarPerfil",
+    "placeholderskin": "s9ab51cfb9a540d48f21f48564e5deba",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

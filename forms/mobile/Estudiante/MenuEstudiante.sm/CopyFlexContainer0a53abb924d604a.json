@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "233dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "17dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s2dd266a40204021a8ea4977ebac3b56",
+    "_top_": {
+        "type": "string",
+        "value": "290dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "91.90%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyImage0fe52a791309748",
+        "Label0e8259a18a1a941"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyFlexContainer0a53abb924d604a",
+    "ide_onClick": "AS_FlexContainer_da339b30e40f4fe3a53e677f1bd916f4",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f8e16c282cce4c4c995585c1e7890541",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexScrollContainer0j4638f5df1bd47",
+    "pf": "MenuEstudiante",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}
